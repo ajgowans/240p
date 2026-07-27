@@ -5,12 +5,14 @@
 
 * Gameboy
 * GBA
+* Master System
 * MegaCD
 * Megadrive
 * MiSTer
 * N64
 * Neo Geo
 * Neo Geo CD
+* NES
 * Playstation
 * Sega 32X
 * Saturn
